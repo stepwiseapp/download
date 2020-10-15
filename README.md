@@ -1,4 +1,4 @@
-# New Features (v4.0)
+# New Features
 
 ## Shortcuts
 
