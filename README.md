@@ -19,4 +19,5 @@ Run has a new mode, "run workflow", that lets you re-use steps from other workfl
 # Download
 
 [Installed](https://github.com/stepwiseapp/download/releases/latest/download/Stepwise.Setup.exe)
+
 [Portable](https://github.com/stepwiseapp/download/releases/latest/download/Stepwise.zip)
