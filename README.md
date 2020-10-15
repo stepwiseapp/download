@@ -15,3 +15,8 @@ If has a new mode, "if copied text", that lets you add conditions based on the m
 ## Run workflow
 
 Run has a new mode, "run workflow", that lets you re-use steps from other workflows. Prompts and starting windows are carried over accordingly.
+
+# Download
+
+[Installed](https://github.com/stepwiseapp/download/releases/latest/download/Stepwise.Setup.exe)
+[Portable](https://github.com/stepwiseapp/download/releases/latest/download/Stepwise.zip)
