@@ -1,21 +1,40 @@
-# New Features
+# New Features in Stepwise 1.2.5
 
-## Shortcuts
+## Hotstring Shortcuts
 
+Workflows can now be run using hotstring shortcuts. 
 
-Workflows can now be run using keyboard shortcuts. Click the Shortcut Button (next to the Play Button) to add a keyboard shortcut (e.g. F12 or ctrl+shift+a) to your workflow.
+Click the Shortcut Button (next to the Play Button) to add a hotstring  to your workflow.
+Very useful for simple text shortcuts such as 'asap -> as soon as possible' or much larger bodies of text
 
-## Wait for me
+## User Authentication and First Launch Experience
 
-Wait has a new mode, "wait for me", that lets you control when/whether a workflow should continue. Use it to incorporate manual/non-automatable tasks in the middle of a workflow.
+Users can now sign in with Google which allows us to send welcome emails and keep in contact with our users
 
-## If copied text
+Whenever a user authenticates for the first time, there is CONFETTI!
 
-If has a new mode, "if copied text", that lets you add conditions based on the most recently copied text (using ctrl+c). Use it to incorporate external data in your workflow's decision-making (similar to "if my response", which adds conditions based on user-inputted data).
+## Workflow running icon (animated)
 
-## Run workflow
+## Abort key (esc + shift) halts all workflow processes when necessary
 
-Run has a new mode, "run workflow", that lets you re-use steps from other workflows. Prompts and starting windows are carried over accordingly.
+## Multidrag Support allows for bulk widget movement
+
+## Open Existing Window has been thouroughly revamped to be more usable across different versions of Windows
+
+## Context tray now updates live and allows workflow aborting
+
+## Added write today's date feature in the write widget
+
+## About section (accessable from the start screen via the hamburger menu)
+
+## Added Create Text Shortcut modal for breezy text shortcut creation
+
+## Multiple errors patched such as:
+
+-App no longer crashes when current workflow is deleted
+
+-Other niche errors
+
 
 # Download
 
