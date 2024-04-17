@@ -2,6 +2,7 @@
 
 ## Shortcuts
 
+
 Workflows can now be run using keyboard shortcuts. Click the Shortcut Button (next to the Play Button) to add a keyboard shortcut (e.g. F12 or ctrl+shift+a) to your workflow.
 
 ## Wait for me
