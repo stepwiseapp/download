@@ -13,21 +13,25 @@ Users can now sign in with Google which allows us to send welcome emails and kee
 
 Whenever a user authenticates for the first time, there is CONFETTI!
 
-## Workflow running icon (animated)
-
-## Abort key (esc + shift) halts all workflow processes when necessary
-
 ## Multidrag Support allows for bulk widget movement
 
-## Open Existing Window has been thouroughly revamped to be more usable across different versions of Windows
+## Open Existing Window has been thouroughly revamped
 
-## Context tray now updates live and allows workflow aborting
+Is now much more usable across different versions of Windows
 
-## Added write today's date feature in the write widget
+## Misc Additions
 
-## About section (accessable from the start screen via the hamburger menu)
+Workflow running icon (animated)
 
-## Added Create Text Shortcut modal for breezy text shortcut creation
+Abort key (esc + shift) halts all workflow processes when necessary
+
+Added write today's date feature in the write widget
+
+Context tray now updates live and allows workflow aborting
+
+Added About section (accessable from the start screen via the hamburger menu)
+
+Added Create Text Shortcut modal for breezy text shortcut creation
 
 ## Multiple errors patched such as:
 
