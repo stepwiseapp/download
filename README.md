@@ -1,4 +1,4 @@
-# New Features in Stepwise 1.2.5
+# New Features in Stepwise 2.0
 
 ## Hotstring Shortcuts
 
