@@ -11,6 +11,8 @@ Very useful for simple text shortcuts such as 'asap -> as soon as possible' or m
 
 Users can now sign in with Google which allows us to send welcome emails and keep in contact with our users
 
+Users can also bypass google authentication if they have privacy concerns
+
 Whenever a user authenticates for the first time, there is CONFETTI!
 
 ## Multidrag Support allows for bulk widget movement
