@@ -1,4 +1,4 @@
-# New Features in Stepwise 2.0
+# New Features in Stepwise 2.0.1
 
 ## Hotstring Shortcuts
 
@@ -25,6 +25,8 @@ Is now much more usable across different versions of Windows
 
 Workflow running icon (animated)
 
+Users can toggle between enabling/disabling shortcuts entirely in the tray menu
+
 Abort key (esc + shift) halts all workflow processes when necessary
 
 Added write today's date feature in the write widget
@@ -37,7 +39,13 @@ Added Create Text Shortcut modal for breezy text shortcut creation
 
 ## Multiple errors patched such as:
 
--App no longer crashes when current workflow is deleted
+-Fixed app crash when current workflow is deleted
+
+-Fixed app crash in open existing window by changing format to more Windows version inclusive dropdown menu
+
+-Fixed app crash in wait for existing window by changing format to more Windows version inclusive dropdown menu
+
+-Improved UI in write my response to prompt to allow for larger prompts
 
 -Other niche errors
 
