@@ -45,6 +45,8 @@ Added Create Text Shortcut modal for breezy text shortcut creation
 
 -Fixed app crash in wait for existing window by changing format to more Windows version inclusive dropdown menu
 
+-Exceptions/crashes are now logged our database
+
 -Improved UI in write my response to prompt to allow for larger prompts
 
 -Other niche errors
