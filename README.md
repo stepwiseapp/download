@@ -73,7 +73,7 @@ Stepwise passes it through without formatting or interference.
 
 ---
 
-## 📚 Previous Version – Stepwise v2.0.1
+## 📚 Previous Version – Stepwise v2.2.4
 
 <details>
 <summary>Click to expand changelog for v2.0.1</summary>
