@@ -1,59 +1,115 @@
-# New Features in Stepwise 2.0.1
+# 🥳 Stepwise v2.2.5 – Release Notes
 
-## Hotstring Shortcuts
+Welcome to **Stepwise v2.2.5**!  
+We're thrilled to introduce several new features, improvements, and fixes based on user feedback and months of iteration. This release represents a huge leap forward in flexibility, polish, and power for automating your daily workflows.
 
-Workflows can now be run using hotstring shortcuts. 
+---
 
-Click the Shortcut Button (next to the Play Button) to add a hotstring  to your workflow.
-Very useful for simple text shortcuts such as 'asap -> as soon as possible' or much larger bodies of text
+## 🆕 What's New
 
-## User Authentication and First Launch Experience
+### 💻 Use Stepwise on up to 3 Devices
+You can now install and use Stepwise across **three separate devices** under a single account.  
+This is a better compromise for individual users who want flexibility to automate across a laptop, desktop, or work machine — without needing a team or enterprise license.  
+🛠 _Coming soon_: cross-device syncing of workflows and preferences.
 
-Users can now sign in with Google which allows us to send welcome emails and keep in contact with our users
+### ⏳ 30-Day Trial System
+New users receive a **30-day trial** of Stepwise Premium with access to:
 
-Users can also bypass google authentication if they have privacy concerns
+- Unlimited workflows
+- The workflow recorder
+- Advanced shortcuts
+- No credit card required
 
-Whenever a user authenticates for the first time, there is CONFETTI!
+Our trial detection logic also ensures fair usage across devices.
 
-## Multidrag Support allows for bulk widget movement
+### 🔴 Automatic Workflow Recorder
+Create workflows by example — just hit record and perform your tasks. Stepwise will generate the workflow in real-time.  
+Perfect for users who want automation without the drag-and-drop editor.
 
-## Open Existing Window has been thouroughly revamped
+### 🧠 Smart Features in Development
+This update lays groundwork for upcoming AI-powered tools:
 
-Is now much more usable across different versions of Windows
+- Natural language → automation translation
+- Automation suggestions based on repeated activity
 
-## Misc Additions
+📣 _Stay tuned — these are coming soon to premium users._
 
-Workflow running icon (animated)
+### ⚙️ Settings Menu Overhaul
+The new **Settings Menu** gives you full control over:
 
-Users can toggle between enabling/disabling shortcuts entirely in the tray menu
+- Global shortcut toggle
+- Implicit wait timing between steps
+- Hotkey/hotstring detection during recording
+- Raw AutoHotkey code widget toggle
+- Delete all workflows (wipe)
+- _Coming soon_: Gaming Mode, Sound FX on widget drop
 
-Abort key (esc + shift) halts all workflow processes when necessary
+### ▶️ Animated Workflow/Recorder Icon
+A sleek animated icon now appears when workflows are running or being recorded.  
+Easily track background automations at a glance.
 
-Added write today's date feature in the write widget
+### ⛔ Abort Workflows Instantly (Shift + Esc)
+Press `Shift + Esc` to immediately stop:
 
-Context tray now updates live and allows workflow aborting
+- Any running workflow
+- Active workflow recording
 
-Added About section (accessable from the start screen via the hamburger menu)
+Useful in emergencies or testing scenarios.
 
-Added Create Text Shortcut modal for breezy text shortcut creation
+### 🖱️ Multidrag Widgets (Shift + Click)
+You can now select and move **multiple widgets** at once in the editor using `Shift + Click`.  
+Massively improves productivity and layout control.
 
-## Multiple errors patched such as:
+### 🤖 Raw AutoHotkey Code Support (Advanced Users)
+Insert **raw AutoHotkey code** as part of your workflows for full scripting power.  
+Stepwise passes it through without formatting or interference.
 
--Fixed app crash when current workflow is deleted
+---
 
--Fixed app crash in open existing window by changing format to more Windows version inclusive dropdown menu
+## 📦 Download
 
--Fixed app crash in wait for existing window by changing format to more Windows version inclusive dropdown menu
+- [🔧 Installer (Stepwise.Setup.exe)](https://github.com/stepwiseapp/download/releases/latest/download/Stepwise.Setup.exe)  
+- [📦 Portable (Stepwise.zip)](https://github.com/stepwiseapp/download/releases/latest/download/Stepwise.zip)
 
--Exceptions/crashes are now logged our database
+---
 
--Improved UI in write my response to prompt to allow for larger prompts
+## 📚 Previous Version – Stepwise v2.0.1
 
--Other niche errors
+<details>
+<summary>Click to expand changelog for v2.0.1</summary>
 
+### 🔤 Hotstring Shortcuts
+- Workflows can now be triggered using hotstrings
+- Ex: typing `asap` → expands to "as soon as possible"
 
-# Download
+### 👤 User Authentication + First Launch
+- Google Sign-in enabled
+- Confetti animation on first login 🎉
 
-[Installed](https://github.com/stepwiseapp/download/releases/latest/download/Stepwise.Setup.exe)
+### 🪟 Open Existing Window Widget Revamp
+- Fully redesigned for cross-Windows compatibility
 
-[Portable](https://github.com/stepwiseapp/download/releases/latest/download/Stepwise.zip)
+### ⚙️ Misc Improvements
+- Live-updating tray context menu
+- New “write today’s date” widget
+- Abort key (Shift + Esc)
+- “About” screen via start menu
+- Create Text Shortcut modal
+
+### 🐛 Bug Fixes
+- Crashes when deleting current workflow
+- Crash in “Open Existing Window” fixed by better dropdown
+- Crash in “Wait for Existing Window” fixed similarly
+- Crashes now logged to our database
+- Write-prompt widget supports longer prompts
+
+</details>
+
+---
+
+## 📣 Stay Connected
+
+- 🌐 [Stepwise Forum](https://www.hellostepwise.com/forums) – Ask questions, share automations, and connect with other users
+- 💻 [GitHub](https://github.com/stepwiseapp) – Track development, submit issues, and follow updates
+
+---
