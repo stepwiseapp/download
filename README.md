@@ -111,5 +111,6 @@ Stepwise passes it through without formatting or interference.
 
 - 🌐 [Stepwise Forum](https://www.hellostepwise.com/forums) – Ask questions, share automations, and connect with other users
 - 💻 [GitHub](https://github.com/stepwiseapp) – Track development, submit issues, and follow updates
+- 🔎 [LinkedIn](https://www.linkedin.com/company/hellostepwise) – Check us out on LinkedIn!
 
 ---
