@@ -1,9 +1,34 @@
-# 🥳 Stepwise v2.2.5 – Release Notes
+# 🥳 Stepwise v2.2.6 – Release Notes
 
-Welcome to **Stepwise v2.2.5**!  
-We're thrilled to introduce several new features, improvements, and fixes based on user feedback and months of iteration. This release represents a huge leap forward in flexibility, polish, and power for automating your daily workflows.
+Welcome to **Stepwise v2.2.6**!  
+We're excited to bring you this latest update, packed with user-requested features, important fixes, and a huge step toward enhanced security and performance.
+
+## 🆕 What's New
+
+### 🔐 Code-Signing Certification (No More Warnings!)
+Stepwise is now **code-signed** software, meaning you’ll no longer see the security warnings when downloading or running the app. This change ensures that Stepwise is 100% secure and trustworthy, providing you with a seamless experience every time you install or update.
+
+### 🖥️ Focus Bug Fix
+We’ve fixed the issue where Stepwise sometimes required multiple clicks (up to 3) to bring the application back into focus. This bug has been resolved for a smoother user experience.
+
+### 💻 Detailed Workflow Visualizer HUD
+We've added a **Workflow Visualizer HUD** to show the workflow name, the current command executing, and a progress bar.  
+Toggle it on or off from the settings to keep track of your workflows in real time.
+
+### ⏳ Revamped "Wait for Me to Press Ctrl" Feature
+We’ve heard your feedback! Users reported unwanted actions in some programs when needing to press the `Ctrl` key. Now, you have more control:
+- You can press the `Ctrl` key or manually click the **blue button** to continue.
+- If you want to abort, simply press `Shift + Esc` or click the **red button**.  
+Additionally, we've polished the **UI** to make the experience smoother.
+
+### ⚙️ UI Improvements and Bug Fixes
+- **Better UI and responsiveness** for various controls and widgets.
+- Fixed focus issues when using certain keyboard shortcuts.
+- Other minor visual tweaks for a sleeker experience.
 
 ---
+
+# 🥳 Stepwise v2.2.5 – Release Notes
 
 ## 🆕 What's New
 
@@ -14,7 +39,6 @@ This is a better compromise for individual users who want flexibility to automat
 
 ### ⏳ 30-Day Trial System
 New users receive a **30-day trial** of Stepwise Premium with access to:
-
 - Unlimited workflows
 - The workflow recorder
 - Advanced shortcuts
@@ -28,7 +52,6 @@ Perfect for users who want automation without the drag-and-drop editor.
 
 ### 🧠 Smart Features in Development
 This update lays groundwork for upcoming AI-powered tools:
-
 - Natural language → automation translation
 - Automation suggestions based on repeated activity
 
@@ -36,7 +59,6 @@ This update lays groundwork for upcoming AI-powered tools:
 
 ### ⚙️ Settings Menu Overhaul
 The new **Settings Menu** gives you full control over:
-
 - Global shortcut toggle
 - Implicit wait timing between steps
 - Hotkey/hotstring detection during recording
@@ -50,7 +72,6 @@ Easily track background automations at a glance.
 
 ### ⛔ Abort Workflows Instantly (Shift + Esc)
 Press `Shift + Esc` to immediately stop:
-
 - Any running workflow
 - Active workflow recording
 
@@ -66,17 +87,10 @@ Stepwise passes it through without formatting or interference.
 
 ---
 
-## 📦 Download
+<details> 
+<summary>🥳 Stepwise v2.2.4 – Release Notes</summary>
 
-- [🔧 Installer (Stepwise.Setup.exe)](https://github.com/stepwiseapp/download/releases/latest/download/Stepwise.Setup.exe)  
-- [📦 Portable (Stepwise.zip)](https://github.com/stepwiseapp/download/releases/latest/download/Stepwise.zip)
-
----
-
-## 📚 Previous Version – Stepwise v2.2.4
-
-<details>
-<summary>Click to expand changelog for v2.0.1</summary>
+## 🆕 What's New
 
 ### 🔤 Hotstring Shortcuts
 - Workflows can now be triggered using hotstrings
@@ -107,10 +121,15 @@ Stepwise passes it through without formatting or interference.
 
 ---
 
+## 📦 Download
+
+- [🔧 Installer (Stepwise.Setup.exe)](https://github.com/stepwiseapp/download/releases/latest/download/Stepwise.Setup.exe)  
+- [📦 Portable (Stepwise.zip)](https://github.com/stepwiseapp/download/releases/latest/download/Stepwise.zip)
+
+---
+
 ## 📣 Stay Connected
 
 - 🌐 [Stepwise Forum](https://www.hellostepwise.com/forums) – Ask questions, share automations, and connect with other users
 - 💻 [GitHub](https://github.com/stepwiseapp) – Track development, submit issues, and follow updates
 - 🔎 [LinkedIn](https://www.linkedin.com/company/hellostepwise) – Check us out on LinkedIn!
-
----
