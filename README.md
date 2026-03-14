@@ -1,4 +1,66 @@
-# 🥳 Stepwise v2.2.6 – Release Notes
+# 🥳 Stepwise v2.2.7 – Release Notes
+
+Stepwise 2.2.7 focuses on fixing core issues, improving performance, and adding several requested capabilities. Enjoy!! 🤖
+
+## ⭐ Highlights
+
+- Live command glow — instantly see which workflow step is running
+
+- Detailed Workflow HUD improvements — progress bar now aligns perfectly with execution
+
+- 17 Date/Time formats supported in the Write Current Date widget
+
+- Major performance boost from patched backend memory leaks
+
+- Improved device detection for more reliable device limits
+
+### 🚀 Improvements
+
+Live Command Glow
+- Active widgets now glow while executing so you can visually follow workflow progress in real time.
+
+Detailed Workflow HUD
+- The progress meter now accurately reflects workflow progress, including wait steps and execution states. (Toggle detailed HUD + Widget glow in Settings)
+
+Write Current Date/Time Widget
+- Now supports 17 widely used date and time formats for more flexible timestamp insertion.
+
+Device Session Detection (User Requested)
+- Improved identification of unique devices to make device limits more accurate.
+
+### ⚙️ Automation Enhancements
+
+Dropdown Clicking Support
+- Improved coordinate selection now allows Stepwise to reliably click dropdown menus.
+
+Raw AutoHotkey Widget Revival
+- The Raw AHK widget is back with improved handling and stability.
+
+Stronger Shortcut Toggling
+- Hotkeys stay synchronized more reliably when modals or workflows are active.
+
+### 🛠 Fixes & Performance
+
+- Fixed memory leaks that caused duplicate backend processes
+
+- Improved overall runtime performance
+
+- Fixed Ctrl + S not saving in some scenarios
+
+- Fixed Save As duplicating shortcuts when cloning workflows
+
+- Fixed Quick Menu link freezing some PCs
+
+- Restored Quick Menu display script
+
+- Revamped default editor message for clarity
+
+- Mixpanel analytics overhaul (now non-workflow invasive)
+
+---
+
+<details>
+<summary># 🥳 Stepwise v2.2.6 – Release Notes</summary>
 
 Welcome to **Stepwise v2.2.6**!  
 We're excited to bring you this latest update, packed with user-requested features, important fixes, and a huge step toward enhanced security and performance.
@@ -25,10 +87,11 @@ Additionally, we've polished the **UI** to make the experience smoother.
 - **Better UI and responsiveness** for various controls and widgets.
 - Fixed focus issues when using certain keyboard shortcuts.
 - Other minor visual tweaks for a sleeker experience.
+</details>
 
 ---
-
-# 🥳 Stepwise v2.2.5 – Release Notes
+<details>
+<summary># 🥳 Stepwise v2.2.5 – Release Notes</summary>
 
 ## 🆕 What's New
 
@@ -84,6 +147,7 @@ Massively improves productivity and layout control.
 ### 🤖 Raw AutoHotkey Code Support (Advanced Users)
 Insert **raw AutoHotkey code** as part of your workflows for full scripting power.  
 Stepwise passes it through without formatting or interference.
+</details>
 
 ---
 
