@@ -97,8 +97,7 @@ Stronger Shortcut Toggling
 - Mixpanel analytics overhaul (now non-workflow invasive)
 
 ---
-<details>
-<summary># Pre v2.2.7 Release Notes</summary>
+</details>
 
 <details>
 <summary># 🥳 Stepwise v2.2.6 – Release Notes</summary>
