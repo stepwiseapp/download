@@ -1,4 +1,43 @@
-# 🥳 Stepwise v2.2.7 – Release Notes
+# 🏢 Stepwise v2.2.8 – Release Notes
+
+Stepwise 2.2.8 introduces major usability upgrades, enterprise-ready features, and a smoother onboarding experience. This release makes building workflows faster, more intuitive, and more scalable for teams. 🚀
+
+## ⭐ Highlights
+
+- Drag and drop widgets directly from the sidebar into the editor  
+- Guided Stepwise tutorial for first-time users  
+- Enterprise account support with team-based features  
+- Multi-select widgets with bulk actions  
+- Stepwise documentation now live on the website  
+
+## 🚀 Improvements
+
+### Drag & Drop Workflow Builder
+- You can now drag and drop command widgets from the sidebar directly into the editor for a faster, more intuitive workflow creation experience.
+
+### Guided Onboarding Tutorial
+- New users are now guided through Stepwise with a built-in tutorial to quickly understand core functionality and start building workflows.
+
+### Enterprise Support
+- Stepwise now supports enterprise accounts, unlocking team-based capabilities:
+  - Custom branding so Stepwise fits seamlessly into your organization’s toolbox  
+  - Cloud-synced workflows that can be shared across your team  
+
+### Multi-Widget Selection (Power Feature)
+- Hold **Shift + Click** to select multiple widgets  
+- Use **Backspace** to delete selected widgets in bulk  
+- Use **Ctrl + D** to duplicate selected widgets  
+
+### Documentation
+- Official Stepwise documentation is now available directly on the website for easier learning and reference.
+
+### General Improvements
+- Bug fixes and polish across the app for a smoother experience  
+
+
+<details>
+
+<summary> # 🥳 Stepwise v2.2.7 – Release Notes </summary>
 
 Stepwise 2.2.7 focuses on fixing core issues, improving performance, and adding several requested capabilities. Enjoy!! 🤖
 
@@ -58,6 +97,8 @@ Stronger Shortcut Toggling
 - Mixpanel analytics overhaul (now non-workflow invasive)
 
 ---
+<details>
+<summary># Pre v2.2.7 Release Notes</summary>
 
 <details>
 <summary># 🥳 Stepwise v2.2.6 – Release Notes</summary>
