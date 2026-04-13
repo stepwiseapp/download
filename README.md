@@ -35,6 +35,7 @@ Stepwise 2.2.8 introduces major usability upgrades, enterprise-ready features, a
 - Bug fixes and polish across the app for a smoother experience  
 
 ---
+
 <details>
 
 <summary> # 🥳 Stepwise v2.2.7 – Release Notes </summary>
@@ -97,6 +98,7 @@ Stronger Shortcut Toggling
 - Mixpanel analytics overhaul (now non-workflow invasive)
 
 </details>
+
 ---
 
 <details>
