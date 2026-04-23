@@ -8,8 +8,8 @@ Stepwise 2.2.9 is a minor patch update aimed at enterprise users 🚀
 - Allow users to download cloud workflows to their local file system.
 - Patched minor bugs.
 
-- Note: True HIPAA compliance overhaul coming soon to cloud workflows..stay tuned!
-- Also, if non-enteprise, premium users would benefit from cloud workflows, we may shift towards that direction.
+    - Note: True HIPAA compliance overhaul coming soon to cloud workflows..stay tuned!
+    - Also, if non-enteprise, premium users would benefit from cloud workflows, we may shift towards that direction.
 
 
 # 🏢 Stepwise v2.2.8 – Release Notes
